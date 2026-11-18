@@ -1,36 +1,43 @@
 # Michael Bell
-### Operations · Business Systems · Workflow Automation
 
-I turn operational problems into practical workflows, structured business rules, and tools that help people follow through. My background spans healthcare payment operations, banking, and independent automation development through **Arvale Systems**.
+**Founder & Automation Consultant at Arvale Systems**  
+Operations, business systems and workflow automation
 
-## Portfolio
-Independent Arvale Systems demonstrations using fictional business data.
+I build automations that help teams manage incoming work, check information and keep projects moving. Through Arvale Systems, I work with Make.com, Power Automate and AI tools. My background in healthcare operations and banking shapes how I approach validation, exceptions and follow-through.
 
-| Project | What it demonstrates |
+## Projects
+
+| Project | Overview |
 | --- | --- |
-| [Invoice extraction and validation](invoice-validation.md) | AI extraction with arithmetic and required-field checks |
-| [AI inquiry intake](inquiry-intake.md) | Classification, draft responses, and suspicious-input review |
-| [Weekly management reporting](weekly-reporting.md) | Calculated task totals with an AI summary |
+| [Invoice extraction and validation](invoice-validation.md) | Extract invoice fields and check missing information and inconsistent totals |
+| [AI inquiry intake](inquiry-intake.md) | Classify inquiries and prepare response drafts for review |
+| [Weekly management reporting](weekly-reporting.md) | Summarize task counts, overdue work and missing owners |
 
-## Professional background
-**athenahealth — Senior Billing Operations Analyst** · July 2024–present
+## Experience
 
-Operational problem solving, payment-posting improvements, DMN decision modeling in Trisotech, cross-functional testing, and internal workflow tools.
+**Arvale Systems | Founder & Automation Consultant**  
+May 2026 to present
 
-**Centennial Bank — Funds Transfer Specialist** · April 2023–July 2024
+Build automation workflows and tools for intake, document review and reporting. Test normal and exception cases and document how the workflows operate.
 
-Wire-transfer controls, reconciliation, exception investigation, and coordinated follow-up.
+**athenahealth | Senior Billing Operations Analyst**  
+July 2024 to present
 
-**Arvale Systems — Founder & Automation Consultant** · May 2026–present
+Improve payment-posting processes, build decision models in Trisotech, test system behavior with Product and develop internal workflow tools.
 
-Practical automation workflows, sample-data testing, and implementation documentation.
+**Centennial Bank | Funds Transfer Specialist**  
+April 2023 to July 2024
 
-## How I work
-Understand the process, identify the rules, build a focused workflow, test normal and exception cases, and document the result. I use AI-assisted development and review behavior against explicit requirements.
+Managed wire-transfer checks, reconciliation, exception investigation and follow-up with banking teams.
 
-**Tools:** Make.com · Power Automate · Microsoft Lists · Trisotech DMN · Excel · Confluence · ServiceNow
+## Tools and areas of focus
 
-**Education:** BA in Business Administration — Management, Ouachita Baptist University
+- **Automation:** Make.com, Power Automate, Microsoft Lists
+- **AI:** Codex, LLM-based assistants, structured extraction and prompt design
+- **Business rules and analysis:** Trisotech DMN, Excel
+- **Documentation:** Confluence
 
+## Education
 
-
+Ouachita Baptist University  
+BA in Business Administration, Management

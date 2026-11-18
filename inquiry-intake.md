@@ -6,7 +6,7 @@
 Incoming inquiries need classification and a useful first response while preserving human review.
 
 ## Workflow
-Sample inquiry → AI classification and response draft → JSON parsing → review record.
+Sample inquiry  >  AI classification and response draft  >  JSON parsing  >  review record.
 
 ## Observed tests
 - Normal inquiry: inquiry_automation classification, needs_human_review status, populated draft.
@@ -16,6 +16,7 @@ Sample inquiry → AI classification and response draft → JSON parsing → rev
 Drafting is separate from sending. Suspicious content is routed for review. No emails were sent.
 
 ## Scope
-Embedded sample data and execution-history output. Live webhook input, persistent review queues, and duplicate protection are future work. Built with AI assistance.
+Embedded sample data and execution-history output. Live webhook input, persistent review queues, and duplicate protection are future work.
+
 
 

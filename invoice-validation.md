@@ -6,7 +6,7 @@
 Extracted invoice fields need validation before a person can rely on them.
 
 ## Workflow
-Sample invoice text → Make AI Toolkit extraction → JSON parsing → separate arithmetic and missing-number checks → review result.
+Sample invoice text  >  Make AI Toolkit extraction  >  JSON parsing  >  separate arithmetic and missing-number checks  >  review result.
 
 ## Observed tests
 | Case | Result |
@@ -19,6 +19,9 @@ Sample invoice text → Make AI Toolkit extraction → JSON parsing → separate
 AI handles text interpretation; separate rules check arithmetic and required information. Results support human review and do not authorize payment.
 
 ## Scope
-Embedded sample input and execution-history output. PDF/OCR ingestion, persistent duplicate protection, accounting writes, and scheduled processing are future work. Built with AI assistance.
+Embedded sample input and execution-history output. PDF/OCR ingestion, persistent duplicate protection, accounting writes, and scheduled processing are future work.
+
+
+
 
 
