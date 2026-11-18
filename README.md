@@ -8,9 +8,9 @@ Independent Arvale Systems demonstrations using fictional business data.
 
 | Project | What it demonstrates |
 | --- | --- |
-| [Invoice extraction and validation](projects/invoice-validation.md) | AI extraction with arithmetic and required-field checks |
-| [AI inquiry intake](projects/inquiry-intake.md) | Classification, draft responses, and suspicious-input review |
-| [Weekly management reporting](projects/weekly-reporting.md) | Calculated task totals with an AI summary |
+| [Invoice extraction and validation](invoice-validation.md) | AI extraction with arithmetic and required-field checks |
+| [AI inquiry intake](inquiry-intake.md) | Classification, draft responses, and suspicious-input review |
+| [Weekly management reporting](weekly-reporting.md) | Calculated task totals with an AI summary |
 
 ## Professional background
 **athenahealth — Senior Billing Operations Analyst** · July 2024–present
@@ -31,5 +31,6 @@ Understand the process, identify the rules, build a focused workflow, test norma
 **Tools:** Make.com · Power Automate · Microsoft Lists · Trisotech DMN · Excel · Confluence · ServiceNow
 
 **Education:** BA in Business Administration — Management, Ouachita Baptist University
+
 
 
