@@ -9,6 +9,8 @@ I build automations that help teams manage incoming work, check information and 
 
 | Project | Overview |
 | --- | --- |
+| [Document review app](document-review.md) | Compare invoice details with the source, correct missing fields, approve records and export JSON |
+| [Shared work tracker](work-tracker.md) | Organize team work in Microsoft Lists with Power Automate notifications |
 | [Invoice extraction and validation](invoice-validation.md) | Extract invoice fields and check missing information and inconsistent totals |
 | [AI inquiry intake](inquiry-intake.md) | Classify inquiries and prepare response drafts for review |
 | [Weekly management reporting](weekly-reporting.md) | Summarize task counts, overdue work and missing owners |

@@ -25,3 +25,9 @@ Embedded sample input and execution-history output. PDF/OCR ingestion, persisten
 
 
 
+
+## Example run
+
+![Make workflow showing extracted invoice fields from fictional sample data](invoice-output.jpg)
+
+Sample invoice fields in an actual Make execution. The test cases above describe the validation results.
